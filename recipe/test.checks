@@ -1,0 +1,23 @@
+# Test mode recipe
+
+This is a gameplay validation recipe to prove the mod played, not just started.
+
+## Preconditions
+- Start the game in a PEAK session with the mod enabled.
+- Confirm a local Scribblenauts install is available and accessible at runtime.
+- Confirm the player spawns on PEAK's beach in the first minute.
+
+## Required checks
+1. Open the notepad UI keybind within 60 seconds of spawn.
+2. Enter `rope`.
+3. Confirm a PEAK object matching `PeakRope` appears in the player's hand.
+4. Confirm stamina cost is applied to the local player's stamina value.
+5. Record a screenshot with the object in hand.
+6. In multiplayer mode, test host plus join with two game instances, each using their own item spawn logic.
+
+## Success criteria
+- A real object is spawned by text input.
+- The item appears in the player's hands.
+- The stamina value decreases by the configured cost.
+- The screenshot file exists and captures in-game proof of the conjure.
+- Multiplayer host/join is validated only when the environment supports it.
