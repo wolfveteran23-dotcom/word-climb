@@ -1,0 +1,13 @@
+id,scrib_name,icon,sound,peak_object,stamina_cost
+1,rope,icons/rope.png,sfx/rope.wav,rope_prefab,5
+2,ladder,icons/ladder.png,sfx/ladder.wav,ladder_prefab,8
+3,balloon,icons/balloon.png,sfx/balloon.wav,balloon_prefab,12
+4,umbrella,icons/umbrella.png,sfx/umbrella.wav,umbrella_prefab,6
+5,hook,icons/hook.png,sfx/hook.wav,hook_prefab,7
+6,glider,icons/glider.png,sfx/glider.wav,glider_prefab,15
+7,jetpack,icons/jetpack.png,sfx/jetpack.wav,jetpack_prefab,25
+8,ropegun,icons/ropegun.png,sfx/ropegun.wav,ropegun_prefab,18
+9,ladder_small,icons/ladder_small.png,sfx/ladder_small.wav,ladder_small_prefab,4
+10,air_balloon,icons/air_balloon.png,sfx/air_balloon.wav,air_balloon_prefab,10
+11,umbrella_slow,icons/umbrella_slow.png,sfx/umbrella_slow.wav,umbrella_slow_prefab,9
+12,wings,icons/wings.png,sfx/wings.wav,wings_prefab,20
