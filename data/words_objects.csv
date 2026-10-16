@@ -1,0 +1,13 @@
+word,scribble_entry,peak_object,icon_ref,sound_ref,stamina_cost,notes
+rope,Rope,PeakRope,icon_rope.png,sfx_rope.wav,2,"Basic climb, spawns held rope"
+ladder,Ladder,PeakLadder,icon_ladder.png,sfx_ladder.wav,3,"Placeable ladder for vertical climb"
+balloon,Hot Air Balloon,PeakBalloon,icon_balloon.png,sfx_balloon.wav,5,"Slowly rises; continuous stamina drain"
+umbrella,Umbrella,PeakUmbrella,icon_umbrella.png,sfx_umbrella.wav,3,"Glide descent and slow climb"
+grappling_hook,Grappling Hook,PeakGrapple,icon_grapple.png,sfx_grapple.wav,6,"Long-range hook; high cooldown"
+vine,Vine,PeakVine,icon_vine.png,sfx_vine.wav,4,"Creates climbable vine tether"
+hook,Hook,PeakHook,icon_hook.png,sfx_hook.wav,4,"Short-range attach to cliff points"
+springboots,Spring Boots,PeakSpringBoots,icon_spring.png,sfx_spring.wav,5,"Boost jumps; costs per use"
+jetpack,Jetpack,PeakJetpack,icon_jetpack.png,sfx_jetpack.wav,8,"Powerful vertical movement; high drain"
+parachute,Parachute,PeakParachute,icon_parachute.png,sfx_parachute.wav,4,"Slow descent; limited horizontal"
+skates,Ice Skates,PeakSkates,icon_skates.png,sfx_skate.wav,2,"Slide on slopes; helps reach walls"
+lantern,Lantern,PeakLantern,icon_lantern.png,sfx_lantern.wav,1,"Light-only; small lift via lift effect"

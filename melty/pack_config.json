@@ -1,0 +1,22 @@
+{
+  "pack_name": "word-climb",
+  "host_game": {
+    "id": "PEAK",
+    "install_path": "PUT_YOUR_MELTY_MERGED_GAME_PATH_HERE",
+    "exe": "PEAK.exe",
+    "launch_url": "PUT_MELTY_LAUNCH_URL_HERE"
+  },
+  "companions": [
+    {
+      "id": "custom-scribblenauts-unlimited",
+      "path": "PUT_SCRIBBLENAUTS_FOLDER_PATH_HERE",
+      "note": "Runtime-only access. Do not copy any assets into the repo."
+    }
+  ],
+  "bepinex_plugins_dest": "BepInEx/plugins",
+  "output_pack": "word-climb-melty.zip",
+  "notes": [
+    "Replace the placeholders with the actual Melty launch link and filesystem paths before final packaging.",
+    "This repo intentionally keeps the runtime data source external to the pack to avoid copying Scribblenauts assets."
+  ]
+}
